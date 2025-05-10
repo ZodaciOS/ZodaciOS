@@ -6,3 +6,12 @@ tweak that will allow users to encrypt apps using a passcode/touch/face ID & man
 Feel free to contact me for any questions or concerns:
 
 **devblueb@gmail.com** - Report tweak issues
+
+<H3 align="center">Current Developing Projects</H1>
+
+
+**Acrypt** - Encrypt/lock your apps using passcode, touch ID or face ID 
+
+**Eon** - Renovating & revolutionzing the homescreen by bringing new features
+
+**Fryption** - The best free lock screen replacement for iPadOS & iPhoneOS
