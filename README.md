@@ -17,7 +17,7 @@ Feel free to contact me for any questions, tweak issues, or suggestions.
 
 **Eon** - Renovating & revolutionzing the homescreen by bringing new features
 
-**Fryption** - The best free lock screen replacement for iPadOS & iPhoneOS
+**[Fryption](https://github.com/ZodaciOS/Fryption)** The best free lock screen replacement for iPadOS & iPhoneOS
 
 <H3 align="center">Support Me</H1>
 
