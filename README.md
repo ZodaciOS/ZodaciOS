@@ -15,3 +15,5 @@ Feel free to contact me for any questions or concerns:
 **Eon** - Renovating & revolutionzing the homescreen by bringing new features
 
 **Fryption** - The best free lock screen replacement for iPadOS & iPhoneOS
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](ko-fi.com/zodacios)
