@@ -16,4 +16,10 @@ Feel free to contact me for any questions or concerns:
 
 **Fryption** - The best free lock screen replacement for iPadOS & iPhoneOS
 
+<H3 align="center">Support Me</H1>
+
+If you think that my work is good or you would like to donate, please donate below to may attached PayPal.
+It is okay if you do not donate. Most of my developed tweaks & projects will remain free **forever**, 
+regardless of the donations.
+
 [![paypal](https://github.com/ZodaciOS/ZodaciOS/blob/main/4A63C562-A256-4974-A5F1-71839FC5331C.png)](https://paypal.me/kysonhuang?country.x=CA&locale.x=en_US)
