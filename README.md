@@ -1,6 +1,6 @@
 <H2 align="center">Zodac</H1>
 
-iOS Tweak Developer & Security Researcher. Currently, I have several upcoming projects for tweaks, such as Acrypt, a 
+iOS Tweak Developer & Security Researcher. Currently, I have several upcoming projects for tweaks, such as [Acrypt](https://github.com/ZodaciOS/Acrypt), a 
 tweak that will allow users to encrypt apps using a passcode/touch/face ID & many more. 
 
 Feel free to contact me for any questions, tweak issues, or suggestions.
