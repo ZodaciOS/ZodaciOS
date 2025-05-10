@@ -9,6 +9,9 @@ Feel free to contact me for any questions, tweak issues, or suggestions.
 
 <H3 align="center">Current Developing Projects</H1>
 
+> [!NOTE]
+> These projects & tweaks will not be released until development is finished
+
 
 **Acrypt** - Encrypt/lock your apps using passcode, touch ID or face ID 
 
