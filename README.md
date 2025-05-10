@@ -18,4 +18,4 @@ Feel free to contact me for any questions or concerns:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/zodacios)
 
-[![paypal](https://github.com/ZodaciOS/ZodaciOS/blob/main/00E20967-AEE3-44BE-9797-EB995CE02DE4.png)](https://paypal.me/kysonhuang?country.x=CA&locale.x=en_US)
+[![paypal](https://github.com/ZodaciOS/ZodaciOS/blob/main/4A63C562-A256-4974-A5F1-71839FC5331C.png)](https://paypal.me/kysonhuang?country.x=CA&locale.x=en_US)
