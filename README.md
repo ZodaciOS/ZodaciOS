@@ -16,4 +16,4 @@ Feel free to contact me for any questions or concerns:
 
 **Fryption** - The best free lock screen replacement for iPadOS & iPhoneOS
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](ko-fi.com/zodacios)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/zodacios)
