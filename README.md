@@ -15,7 +15,7 @@ Feel free to contact me for any questions, tweak issues, or suggestions.
 
 **Acrypt** - Encrypt/lock your apps using passcode, touch ID or face ID 
 
-**Eon** - Renovating & revolutionzing the homescreen by bringing new features
+**[Eon](https://github.com/ZodaciOS/Eon)** Renovating & revolutionzing the homescreen by bringing new features
 
 **[Fryption](https://github.com/ZodaciOS/Fryption)** The best free lock screen replacement for iPadOS & iPhoneOS
 
