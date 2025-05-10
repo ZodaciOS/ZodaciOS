@@ -13,11 +13,11 @@ Feel free to contact me for any questions, tweak issues, or suggestions.
 > These projects & tweaks will not be released until development is finished
 
 
-**Acrypt** - Encrypt/lock your apps using passcode, touch ID or face ID 
+**[Acrypt](https://github.com/ZodaciOS/Acrypt)** - Encrypt/lock your apps using passcode, touch ID or face ID 
 
-**[Eon](https://github.com/ZodaciOS/Eon)** Renovating & revolutionzing the homescreen by bringing new features
+**[Eon](https://github.com/ZodaciOS/Eon)** - Renovating & revolutionzing the homescreen by bringing new features
 
-**[Fryption](https://github.com/ZodaciOS/Fryption)** The best free lock screen replacement for iPadOS & iPhoneOS
+**[Fryption](https://github.com/ZodaciOS/Fryption)** - The best free lock screen replacement for iPadOS & iPhoneOS
 
 <H3 align="center">Support Me</H1>
 
