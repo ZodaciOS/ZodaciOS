@@ -28,3 +28,5 @@ regardless of the donations.
 
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/kysonhuang?country.x=CA&locale.x=en_US))
+
+![Discord](https://img.shields.io/discord/1314427890099687444)
