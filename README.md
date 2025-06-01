@@ -5,7 +5,7 @@ tweak that will allow users to encrypt apps using a passcode/touch/face ID & man
 
 Feel free to contact me for any questions, tweak issues, or suggestions.
 
-**devblueb@gmail.com** 
+
 
 <H3 align="center">Current Developing Projects</H1>
 
