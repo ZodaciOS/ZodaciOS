@@ -21,12 +21,5 @@ Feel free to contact me for any questions, tweak issues, or suggestions.
 
 <H3 align="center">Support Me</H1>
 
-If you think that my work is good or you would like to donate, please donate below to may attached PayPal.
-It is okay if you do not donate. Most of my developed tweaks & projects will remain free **forever**, 
-regardless of the donations.
-
-
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/kysonhuang?country.x=CA&locale.x=en_US))
 
 ![Discord](https://img.shields.io/discord/1314427890099687444)
