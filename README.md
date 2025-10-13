@@ -1,4 +1,4 @@
-<H2 align="center">Zodac</H1>
+<H2 align="center">ZodaciOS</H1>
 
 iOS Security Researcher.
 
